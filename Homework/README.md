@@ -4,7 +4,9 @@ This contains my efforts at completing the homework from  Richard McElreath's
 
 To note, the `weekXX.pdf` and `weekxx_solutions.pdf` files are from his
 repository, and are copied here simply to ease in referencing them.
-I claim no ownership of their contents.
+I claim no ownership of their contents. This directory contains the homework
+assignments, while Submissions contains my solution attempts, and
+Solutions contains the solutions given from the course.
 
 ## Table of Contents
 wk_1.ipynb -- contains some problems manually constructing the posterior
